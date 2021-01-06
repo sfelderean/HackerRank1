@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c26980f-4e6d-40c5-939e-d2bdcbd53920" name="Default Changelist" comment="test comment changed1" />
+    <list id="8f3f6e7a-479a-4f27-897a-f9d248db0b71" name="Revert &quot;test comment changed1&quot;" comment="Revert &quot;test comment changed1&quot;&#10;&#10;This reverts commit cdf321b1" />
+    <list id="ad25416a-5c35-4a1e-b78f-3dc77d133d4c" name="Revert &quot;test comment&quot;" comment="test comment changed" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+    <option name="OPTIONS">
+      <set>
+        <option value="INTERACTIVE" />
+        <option value="KEEP_EMPTY" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1miIkrqdnDGD704OVk912yMBs8h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c26980f-4e6d-40c5-939e-d2bdcbd53920" name="Default Changelist" comment="" />
+      <created>1609970131084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609970131084</updated>
+      <workItem from="1609970132741" duration="328000" />
+      <workItem from="1609972345416" duration="475000" />
+      <workItem from="1609972965688" duration="1018000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1609970204631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609970204631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test comment">
+      <created>1609972434728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609972434728</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revert &quot;test comment changed1&quot;&#10;&#10;This reverts commit cdf321b1">
+      <created>1609973628574</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609973628574</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revert &quot;test comment changed1&quot;&#10;&#10;This reverts commit cdf321b1">
+      <created>1609973794185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609973794185</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Revert &quot;test comment changed1&quot;&#10;&#10;This reverts commit cdf321b1">
+      <created>1609973828458</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609973828458</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Revert &quot;test comment changed1&quot;&#10;&#10;This reverts commit cdf321b1">
+      <created>1609973860423</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609973860423</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Revert &quot;test comment changed1&quot;&#10;&#10;This reverts commit cdf321b1">
+      <created>1609973872459</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609973872459</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Revert &quot;test comment changed1&quot;&#10;&#10;This reverts commit cdf321b1">
+      <created>1609973888046</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609973888046</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="test comment changed1" />
+    <MESSAGE value="Revert &quot;test comment&quot;&#10;&#10;This reverts commit e702a3ae" />
+    <MESSAGE value="test comment changed" />
+    <MESSAGE value="Revert &quot;test comment changed1&quot;&#10;&#10;This reverts commit cdf321b1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;test comment changed1&quot;&#10;&#10;This reverts commit cdf321b1" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+Index: test
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>line1\r\nline2\r\nline3\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test b/test
+--- a/test	(revision 524317e9b25b05d30a5872069a608d20eb261599)
++++ b/test	(date 1609970150249)
+@@ -1,3 +1,3 @@
+-line1
++line1modified
+ line2
+ line3
