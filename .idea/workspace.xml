@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c26980f-4e6d-40c5-939e-d2bdcbd53920" name="Default Changelist" comment="test comment changed1">
-      <change afterPath="$PROJECT_DIR$/.idea/HackerRank1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="8f3f6e7a-479a-4f27-897a-f9d248db0b71" name="Revert &quot;test comment changed1&quot;" comment="Revert &quot;test comment changed1&quot;&#10;&#10;This reverts commit cdf321b1" />
@@ -25,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1miIkrqdnDGD704OVk912yMBs8h" />
   <component name="ProjectViewState">
@@ -38,6 +37,12 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
@@ -64,7 +69,7 @@
       <workItem from="1609970132741" duration="328000" />
       <workItem from="1609972345416" duration="475000" />
       <workItem from="1609972965688" duration="1018000" />
-      <workItem from="1609975832573" duration="714000" />
+      <workItem from="1609975832573" duration="1460000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1609970204631</created>
@@ -122,7 +127,35 @@
       <option name="project" value="LOCAL" />
       <updated>1609973888046</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test comment changed1">
+      <created>1609976574050</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609976574050</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test comment changed1">
+      <created>1609976735668</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609976735668</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test comment changed1">
+      <created>1609976778278</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609976778278</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test comment changed1">
+      <created>1609976828229</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609976828229</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,10 +187,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <MESSAGE value="test comment changed1" />
     <MESSAGE value="Revert &quot;test comment&quot;&#10;&#10;This reverts commit e702a3ae" />
     <MESSAGE value="test comment changed" />
     <MESSAGE value="Revert &quot;test comment changed1&quot;&#10;&#10;This reverts commit cdf321b1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;test comment changed1&quot;&#10;&#10;This reverts commit cdf321b1" />
+    <MESSAGE value="test comment changed again" />
+    <MESSAGE value="test comment changed1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test comment changed1" />
   </component>
 </project>
